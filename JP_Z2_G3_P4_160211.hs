@@ -5,6 +5,8 @@ import Data.Map
 
 -- Powazna zmiana w projekcie
 
+-- LOLOLOLOLOL
+
 main = do
 			print ("Kolejne zdanie:")
 			print (wypisz_zmienne ( (C (N (Z 'p')) (A (K (Z 'p') (Z 'q')) (Z 'r'))) ))
