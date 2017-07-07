@@ -3,6 +3,8 @@ import Data.Map
 
 -- Testowanie zdefiniowanych niżej funkcji:
 
+-- Powazna zmiana w projekcie
+
 main = do
 			print ("Kolejne zdanie:")
 			print (wypisz_zmienne ( (C (N (Z 'p')) (A (K (Z 'p') (Z 'q')) (Z 'r'))) ))
